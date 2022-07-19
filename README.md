@@ -8,7 +8,7 @@ This is a project for my Data Scientist NanoDegree at Udacity. I found a dataset
 
 The dataset contains 3818 listings of airbnbs and 92 columns about it's characteristics, such as: reviews, price, number of bedrooms… You can find this dataset in Kaggle. 
 
-[Here](https://medium.com/@alessandraalpino/tips-that-will-make-you-boost-your-airbnb-2fd523975f16) you can read my article on Medium about this analysis. 
+-> [Here](https://medium.com/@alessandraalpino/tips-that-will-make-you-boost-your-airbnb-2fd523975f16) you can read my article on Medium about this analysis. 
 
 # Installation
 ```

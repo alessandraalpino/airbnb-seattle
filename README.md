@@ -25,3 +25,12 @@ import plotly.graph_objects as go
 **Udacity_project.ipynb** -> notebook with analysis 
 
 **listings.csv** -> dataset that can be found in [Kaggle](https://www.kaggle.com/datasets/airbnb/seattle?resource=download&select=listings.csv)
+
+
+# Results
+
+Suggestions to people who wants to boost their listings on Airbnb or start hosting:
+
+1. Try to answer guests **within 1 day or less**.
+2. Be a **superhost**.
+3. Be aware that price is related to basic characteristics of the place, such as **number of people it accommodates**.

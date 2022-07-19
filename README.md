@@ -12,12 +12,7 @@ The dataset contains 3818 listings of airbnbs and 92 columns about it's characte
 
 # Installation
 ```
-import pandas as pd
-import numpy as np 
-import seaborn as sns
-import matplotlib.pyplot as plt
-from scipy import stats
-import plotly.graph_objects as go
+pip install -r requirements.txt
 ```
 
 # File Descriptions
@@ -26,6 +21,7 @@ import plotly.graph_objects as go
 
 **listings.csv** -> dataset that can be found in [Kaggle](https://www.kaggle.com/datasets/airbnb/seattle?resource=download&select=listings.csv)
 
+**requirements.txt** -> libraries that need to be installed 
 
 # Results
 
